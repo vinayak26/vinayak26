@@ -53,8 +53,8 @@
 
 <br/>
 <br/>
-<a>
-[![Vinayak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinayak26)](https://github.com/vinayak26/github-readme-activity-graph)
+<a href="[![Vinayak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinayak26)](https://github.com/vinayak26/github-readme-activity-graph)">
+
 </a>
 <br/>
 <br/>
