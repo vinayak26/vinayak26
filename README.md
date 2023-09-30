@@ -54,7 +54,7 @@
 <br/>
 <br/>
 <a href="https://github.com/vinayak26/github-readme-activity-graph"><img alt="Vinayak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vinayak26&theme=react-dark&hide_border=true" /></a>
-[![Vinayak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinayak26&theme=react-dark)](https://github.com/vinayak26/github-readme-activity-graph)
+[![Vinayaks's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinayak26&theme=react-dark)](https://github.com/vinayak26/github-readme-activity-graph)
 <br/>
 <br/>
 
